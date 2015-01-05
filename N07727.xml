@@ -112,9 +112,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009867_0000_0F7B77DD5EACDC08"/>
-            <pb facs="tcp:009867_0001_0F7B330F29DB64A0" rendition="simple:additions"/>
-            <pb facs="tcp:009867_0002_0F7B330F88A77FF8"/>
+            <pb facs="unknown:009867_0000_0F7B77DD5EACDC08"/>
+            <pb facs="unknown:009867_0001_0F7B330F29DB64A0"
+                rendition="simple:additions"/>
+            <pb facs="unknown:009867_0002_0F7B330F88A77FF8"/>
             <p>Primitive Phyſick: OR, AN EASY AND NATURAL METHOD OF CURING MOST DISEASES.</p>
             <p>By JOHN WESTLEY.</p>
             <q>Homo ſum: humani nihil <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -131,7 +132,7 @@
                   </gap>-ſtreet.</hi> 1764.</p>
          </div>
          <div type="preface">
-            <pb n="iii" facs="tcp:009867_0003_0F7B331048B15B68"/>
+            <pb n="iii" facs="unknown:009867_0003_0F7B331048B15B68"/>
             <head>THE PREFACE.</head>
             <p>WHEN MAN came firſt out of the Hands of the great CREATOR, cloath'd in Bod<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -144,43 +145,43 @@
                   <desc>•</desc>
                </gap> knew no Pain, no Sickneſs, Weakneſs, or bodily Diſorder. The Habitation wherein the angelick Mind, the <hi>Divinae Particula Aurae</hi> abode, altho' originally formed out of the Duſt of the Earth, was liable to no Decay. It had no Seeds of Cor<g ref="char:EOLhyphen"/>ruption or Diſſolution within itſelf. And there was nothing without to injure it: Heaven and Earth, and all the Hoſts of them, were mild, benign and friendly to human Nature. The en<g ref="char:EOLhyphen"/>tire Creation was at Peace with Man, ſo long as Man was at Peace with his Creator. So that well might the Morning Stars ſing together, and all the Sons of GOD ſhout for Joy.</p>
             <p n="2">2. But ſince Man rebell'd againſt the Sove<g ref="char:EOLhyphen"/>reign of Heaven and Earth, how entirely is the Scene changed? The incorruptible Frame hath put on Corruption, the Immortal has put on Mor<g ref="char:EOLhyphen"/>tality. The Seeds of Weakneſs and Pain, of Sickneſs and Death, are now lodged in our in<g ref="char:EOLhyphen"/>moſt Subſtance: Whence a thouſand Diſorders
-<pb n="iv" facs="tcp:009867_0004_0F7B33110C3CB0C0"/>
+<pb n="iv" facs="unknown:009867_0004_0F7B33110C3CB0C0"/>
 continually ſpring, even without the Aid of ex<g ref="char:EOLhyphen"/>ternal Violence. And how is the Number of theſe increaſed, by every Thing round about us? The Heavens, the Earth, and all Things con<g ref="char:EOLhyphen"/>tained therein, conſpire to puniſh the Rebels a<g ref="char:EOLhyphen"/>gainſt their Creator. The Sun and Moon ſhed unwholſome Influences from above; the Earth exhales poiſonous Damps from beneath: The Beaſts of the Field, the Birds of the Air, the Fiſhes of the Sea, are in a State of Hoſtility: The Air itſelf, that ſurrounds us on every Side, is replete with the Shafts of Death: Yea, the Food we eat, daily ſaps the Foundation of the Life, which cannot be ſuſtained without it. So has the LORD of All ſecured the Execution of his Decree, <q>Duſt thou art, and unto Duſt ſhalt thou return.</q>
             </p>
             <p n="3">3. But can there Nothing be found to leſſen thoſe Inconveniencies, which cannot be wholly removed? To ſoften the Evils of Life, and pre<g ref="char:EOLhyphen"/>vent in Part the Sickneſs and Pain to which we are continually expoſed? Without Queſtion there may. One grand Preventive of Pain and Sick<g ref="char:EOLhyphen"/>neſs of various Kinds, ſeems intimated by the great Author of Nature, in the very Sentence that intails Death upon us: <hi>"In the Sweat of thy Face ſhalt thou eat Bread, 'til thou return to the Ground."</hi> The Power of Exerciſe, both to preſerve and reſtore Health, is greater than can well be conceived: Eſpecially in thoſe who add Tempe<g ref="char:EOLhyphen"/>rance thereto; who, if they do not confine them<g ref="char:EOLhyphen"/>ſelves altogether to eat either <q>Bread, or the
-<pb n="v" facs="tcp:009867_0005_0F7B3312308FCEF8"/>
+<pb n="v" facs="unknown:009867_0005_0F7B3312308FCEF8"/>
 Herb of the Field,</q> (which GOD does not re<g ref="char:EOLhyphen"/>quire them to do) yet ſteadily obſerve both that Kind and Meaſure of Food. which Experience ſhews to be moſt friendly to Health and Strength.</p>
             <p n="4">4. 'Tis probable PHYSICK, as well as RELIGI<g ref="char:EOLhyphen"/>ON, was in the firſt Ages chiefly traditional: Every Father delivering down to his Sons, what he had himſelf in like Manner received, concerning the Manner of healing both outward Hurts, and the Diſeaſes incident to each Climate, and the Me<g ref="char:EOLhyphen"/>dicines which were of the greateſt Efficacy for the Cure of each Diſorder. 'Tis certain, this is the Method wherein the Art of Healing is preſerved among the <hi>Americans,</hi> to this Day. Their Diſ<g ref="char:EOLhyphen"/>eaſes, indeed, are exceeding few; nor do they often occur, by Reaſon of their continual Exer<g ref="char:EOLhyphen"/>ciſe, and ('til of late, univerſal) Temperance. But if any is ſick, or bit by a Serpent, or torn by a wild Beaſt, the Fathers immediately tell their Children what Remedy to apply. And 'tis rare, that the Patient ſuffers long; thoſe Medicines be<g ref="char:EOLhyphen"/>ing quick, as well as generally infaliible.</p>
             <p n="5">5. Hence perhaps it was that the Antients, not only of <hi>Greece</hi> and <hi>Rome,</hi> but even of barba<g ref="char:EOLhyphen"/>rous Nations, uſually aſſign'd Phyſick a Divine Original. And indeed it was a natural Thought, That He who had taught it to the very Beaſts and Birds, the <hi>Cretan</hi> Stag, the <hi>Egyptian</hi> Ibis, could not be wanting to teach Man;
 <q>Sanctius his Animal, mentiſque capacius altae:</q>
 Yea, ſometimes, even by thoſe meaner Crea<g ref="char:EOLhyphen"/>tures:
-<pb n="vi" facs="tcp:009867_0006_0F7B33129C384DE0"/>
+<pb n="vi" facs="unknown:009867_0006_0F7B33129C384DE0"/>
 For it was eaſy to infer, "If this will heal that Creature, whoſe Fleſh is nearly of the ſame Texture with mine, then in a parallel Caſe it will heal me." The Trial was made. The Cure was wrought. And Experience and Phy<g ref="char:EOLhyphen"/>ſick grew up together.</p>
             <p n="6">6. And has not the Author of Nature taught us the Uſe of many other Medicines, but what is vulgarly term'd Accident? Thus one walking ſome Years ſince in a Grove of Pines, at a Time when many in the neighbouring Town were af<g ref="char:EOLhyphen"/>flicted with a Kind of new Diſtemper, little Sores in the Inſide of the Mouth, a Drop of na<g ref="char:EOLhyphen"/>tural Gum fell from one of the Trees on the Book which he was reading. This he took up, and thoughtleſly applied to one of thoſe ſore Pla<g ref="char:EOLhyphen"/>ces. Finding the Pain immediately ceaſe, he applied it to another, which was alſo preſently healed. The ſame Remedy he afterwards im<g ref="char:EOLhyphen"/>parted to others, and it did not fail to heal any that applied it. And doubtleſs numberleſs Re<g ref="char:EOLhyphen"/>medies have been thus caſually diſcovered in eve<g ref="char:EOLhyphen"/>ry Age and Nation.</p>
             <p n="7">7. Thus far Phyſick was wholly founded on Experiment. The <hi>European,</hi> as well as the <hi>Ame<g ref="char:EOLhyphen"/>rican,</hi> ſaid to his Neighbour, Are you ſick? Drink the Juice of this Herb, and your Sickneſs will be at an End. Are you in a burning Heat? Leap into that River, and then ſweat 'til you are well. Has the Snake bitten you? Chew, and apply that Root, and the Poiſon will not hurt you. Thus antient Men, having a little Expe<g ref="char:EOLhyphen"/>rience,
-<pb n="vii" facs="tcp:009867_0007_0F7B33157B251918"/>
+<pb n="vii" facs="unknown:009867_0007_0F7B33157B251918"/>
 joined with common Senſe, and common Humanity, cured both themſelves and their Neighbours, of moſt of the Diſtempers to which every Nation was ſubject.</p>
             <p n="8">8. But in Proceſs of Time, Men of a philo<g ref="char:EOLhyphen"/>ſophical Turn were not ſatisfied with this. They began to enquire, How they might account for theſe Things? How ſuch Medicines wrought ſuch Effects? They examined the human Body, and all its Parts; the Nature of the Fleſh, Veins, Arteries, Nerves; the Structure of the Brain, Heart, Lungs, Stomach, Bowels; with the Springs of the ſeveral Animal Functions. They explored the ſeveral Kinds of Animal and Mine<g ref="char:EOLhyphen"/>ral, as well as Vegetable Subſtances. And hence the whole Order of Phyſick which had obtained to that Time, came gradually to be inverted. Men of Learning began to ſet Experience aſide; to build Phyſick upon Hypotheſis; to form Theories of Diſeaſes and their Cure, and to ſub<g ref="char:EOLhyphen"/>ſtitute theſe in the Place of Experiments.</p>
             <p n="9">9. As Theories increaſed, ſimple Medicines were more and more diſregarded and diſuſed: 'til, in a Courſe of Years, the greater Part of them were forgotten, at leaſt in the politer Na<g ref="char:EOLhyphen"/>tions. In the Room of theſe, Abundance of new Ones were introduced, by reaſoning, ſpeculative Men; and thoſe more and more difficult to be applied, as being more remote from common Obſervation. Hence Rules for the Application of theſe, and Medical Books, were immenſely mul<g ref="char:EOLhyphen"/>tiplied; 'til at length Phyſick became an abſtruſe Science, quite out of the Reach of ordinary Men.</p>
             <p n="10">
-               <pb n="viii" facs="tcp:009867_0008_0F7B331611AB8388"/>10. Phyſicians now began to be had in Admi<g ref="char:EOLhyphen"/>ration, as Perſons who were ſomething more than human. And Profit attended their Em<g ref="char:EOLhyphen"/>ploy, as well as Honour; ſo that they had now two weighty Reaſons for keeping the Bulk of Mankind at a Diſtance, that they might not pry into the Myſteries of the Profeſſion. To this End they increaſed thoſe Difficulties by Deſign, which began in a Manner by Accident. They filled their Writings with Abundance of Technical Terms, utterly unintelligible to plain Men. They affected to deliver their Rules, and to rea<g ref="char:EOLhyphen"/>ſon upon them, in an abſtruſe and philoſophical Manner. They repreſented the critical Know<g ref="char:EOLhyphen"/>ledge of Anatomy, Natural Philoſophy, (and what not? Some of them inſiſting on that of A<g ref="char:EOLhyphen"/>ſtronomy and Aſtrology too) as neceſſarily pre<g ref="char:EOLhyphen"/>vious to the underſtanding the Art of Healing. Thoſe who underſtood only, How to reſtore the Sick to Health, they branded with the Name of Empiricks. They introduced into Practice, A<g ref="char:EOLhyphen"/>bundance of compound Medicines, conſiſting of ſo many Ingredients, that it was ſcarce poſſible for common People to know which it was that wrought a Cure: Abundance of Exoticks, nei<g ref="char:EOLhyphen"/>ther the Nature nor Names of which their own Countrymen underſtood: Of Chymicals, ſuch as they neither had Skill, nor Fortune, nor Time, to prepare: Yea, and of dangerous Ones, ſuch as they could not uſe without hazarding Life, but by the Advice of a Phyſician. And thus both their Honour and Gain were ſecured; a vaſt
-<pb n="ix" facs="tcp:009867_0009_0F7B33171B9F9820"/>
+               <pb n="viii" facs="unknown:009867_0008_0F7B331611AB8388"/>10. Phyſicians now began to be had in Admi<g ref="char:EOLhyphen"/>ration, as Perſons who were ſomething more than human. And Profit attended their Em<g ref="char:EOLhyphen"/>ploy, as well as Honour; ſo that they had now two weighty Reaſons for keeping the Bulk of Mankind at a Diſtance, that they might not pry into the Myſteries of the Profeſſion. To this End they increaſed thoſe Difficulties by Deſign, which began in a Manner by Accident. They filled their Writings with Abundance of Technical Terms, utterly unintelligible to plain Men. They affected to deliver their Rules, and to rea<g ref="char:EOLhyphen"/>ſon upon them, in an abſtruſe and philoſophical Manner. They repreſented the critical Know<g ref="char:EOLhyphen"/>ledge of Anatomy, Natural Philoſophy, (and what not? Some of them inſiſting on that of A<g ref="char:EOLhyphen"/>ſtronomy and Aſtrology too) as neceſſarily pre<g ref="char:EOLhyphen"/>vious to the underſtanding the Art of Healing. Thoſe who underſtood only, How to reſtore the Sick to Health, they branded with the Name of Empiricks. They introduced into Practice, A<g ref="char:EOLhyphen"/>bundance of compound Medicines, conſiſting of ſo many Ingredients, that it was ſcarce poſſible for common People to know which it was that wrought a Cure: Abundance of Exoticks, nei<g ref="char:EOLhyphen"/>ther the Nature nor Names of which their own Countrymen underſtood: Of Chymicals, ſuch as they neither had Skill, nor Fortune, nor Time, to prepare: Yea, and of dangerous Ones, ſuch as they could not uſe without hazarding Life, but by the Advice of a Phyſician. And thus both their Honour and Gain were ſecured; a vaſt
+<pb n="ix" facs="unknown:009867_0009_0F7B33171B9F9820"/>
 Majority of Mankind being utterly cut off from helping either themſelves or their Neighbours, or once daring to attempt it.</p>
             <p n="11">11. Yet there have not been wanting from Time to Time, ſome Lovers of Mankind, who have endeavoured (even contrary to their own Intereſt) to reduce Phyſick to its antient Stand<g ref="char:EOLhyphen"/>dard: Who have laboured to explode out of it all Hypotheſes, and fine-ſpun Theories, and to make it a plain intelligible Thing, as it was in the Beginning; having no more Myſtery in it than this, "Such a Medicine removes ſuch a Pain." Theſe have demonſtrably ſhewn, That neither the Knowledge of Aſtrology, Aſtronomy, Natural Philoſophy, nor even Anatomy itſelf, is abſolutely neceſſary to the quick and effectual Cure of moſt Diſeaſes incident to human Bodies: Nor yet any Chymical, or Exotick, or Compound Medicine, but a ſingle Plant or Fruit duly appli<g ref="char:EOLhyphen"/>ed. So that every Man of common Senſe (unleſs in ſome rare Caſes) may preſcribe either to him<g ref="char:EOLhyphen"/>ſelf or his Neighbour; and may be very ſecure from doing Harm, even where he can do no Good.</p>
             <p n="12">12. Even to the laſt Age there was ſomething of this Kind done, particularly by the great and good Dr. <hi>Sydenham:</hi> And in the preſent, by his Pupil Dr. <hi>Dover,</hi> who has pointed out ſimple Medicines for many Diſeaſes. And ſome ſuch may be found in the Writings of the learned and ingenious Dr. <hi>Cheyne:</hi> Who doubtleſs would have communicated many more to the World,
-<pb n="x" facs="tcp:009867_0010_0F7B3317D2BA99F8"/>
+<pb n="x" facs="unknown:009867_0010_0F7B3317D2BA99F8"/>
 but for the melancholy Reaſon he gave one of his Friends, that preſt him with ſome Paſſages in his Works, which too much countenanced the modern Practice, "O Sir, We muſt do ſome<g ref="char:EOLhyphen"/>thing to oblige the Faculty, or they will tear us in Pieces."</p>
             <p n="13">13. Without any Regard to this, without any Concern about the obliging or diſobliging any Man living, a mean Hand has made here ſome little Attempt toward a plain and eaſy Way of curing moſt Diſeaſes. I have only conſulted herein, Experience, common Senſe, and the common Intereſt of Mankind. And ſuppoſing they can be cured this eaſy Way, who would de<g ref="char:EOLhyphen"/>ſire to uſe any other? Who would not wiſh to have a Phyſician always in his Houſe, and one that attends without Fee or Reward? To be able (unleſs in ſome few complicated Caſes) to pre<g ref="char:EOLhyphen"/>ſcribe to his Family, as well as himſelf?</p>
             <p n="14">14. If it be ſaid, But what Need is there of ſuch an Attempt? I anſwer, The greateſt that can poſſibly be conceived. Is it not needful in the higheſt Degree, to reſcue Men from the Jaws of Deſtruction? From waſting their For<g ref="char:EOLhyphen"/>tunes, as Thouſands have done, and continue to do daily<g ref="char:punc">▪</g> From pining away in Sickneſs and Pain, either through the Ignorance or Knavery of Phyſicians? Yea, and many Times throwing away their Lives, after their Health, and Time, and Subſtance?</p>
             <p>Is it enquired, But are there not Books enough already, on every Part of the Art of Medicine?
-<pb n="xi" facs="tcp:009867_0011_0F7B331887B81AD0"/>
+<pb n="xi" facs="unknown:009867_0011_0F7B331887B81AD0"/>
 Yes, too many, ten Times over, conſidering how little to the Purpoſe the far greater Part of them ſpeak. But beſide this, they are too dear for poor Men to buy, and too hard for plain Men to underſtand. Do you ſay, But there are e<g ref="char:EOLhyphen"/>nough of theſe Collections of Receipts. Where? I have not ſeen One yet, either in our own or a<g ref="char:EOLhyphen"/>ny other Tongue, which contains only ſafe and cheap and eaſy Medicines. In all that have yet fallen into my Hands, I find many dear and ma<g ref="char:EOLhyphen"/>ny far-fetch'd Medicines; many of of ſo dange<g ref="char:EOLhyphen"/>rous a Kind, as a prudent Man would never meddle with. And againſt the greater Part of thoſe Medicines there is a further Objection: They conſiſt of too many Ingredients. The com<g ref="char:EOLhyphen"/>mon Method of compounding and decompoun<g ref="char:EOLhyphen"/>ding Medicines, can never be reconciled to com<g ref="char:EOLhyphen"/>mon Senſe. Experience ſhews, That one Thing will cure moſt Diſorders, at leaſt as well as twen<g ref="char:EOLhyphen"/>ty put together. Then why do you add the other nineteen? Only to ſwell the Apothecary's Bill: Nay, poſſible, on purpoſe to prolong the Diſ<g ref="char:EOLhyphen"/>temper, that the Doctor and he may divide the Spoil</p>
             <p>But admitting there is ſome Quality in the Medicine propoſed, which has Need to be cor<g ref="char:EOLhyphen"/>rected: Will not one Thing correct it, as well as twenty? It is probable, much better. And if not, there is Sufficiency of other. Medicines, which need no ſuch Correction.</p>
             <p>How often, by thus compounding Medicines of oppoſite Qualities, is the Virtue of both utter<g ref="char:EOLhyphen"/>ly
-<pb n="xii" facs="tcp:009867_0012_0F7B331948B8F4B8"/>
+<pb n="xii" facs="unknown:009867_0012_0F7B331948B8F4B8"/>
 deſtroyed? Nay, how often do thoſe joined to<g ref="char:EOLhyphen"/>gether deſtroy Life, which ſingle might have preſerved it? This occaſioned that Caution of the great <hi>Boerhaave,</hi> againſt mixing Things without evident Neceſſity, and without full Proof of the Effect they will produce when joined together, as well as of that they produced when aſunder: See<g ref="char:EOLhyphen"/>ing (as he obſerves) ſeveral Things, which ſepa<g ref="char:EOLhyphen"/>rately taken, are ſafe and powerful Medicines, when compounded not only loſe their former Pow<g ref="char:EOLunhyphen"/>ers, but commence a ſtrong and deadly Poiſon.</p>
             <p n="15">15. As to the Manner of uſing the Medicines here ſet down, I ſhould adviſe as ſoon as you know your Diſtemper, (which is very eaſy, unleſs in a Complication of Diſorders, and then you would do well to apply to a Phyſician that fears GOD) Firſt, uſe the firſt of the Remedies for that Diſ<g ref="char:EOLhyphen"/>eaſe which occurs in the enſuing Collection; un<g ref="char:EOLhyphen"/>leſs ſome other of them be eaſier to be had, and then it may do juſt as well.) Secondly, After a competent Time, if it takes no Effect, uſe the ſe<g ref="char:EOLhyphen"/>cond, the third, and ſo on. I have purpoſely ſet down (in moſt Caſes) ſeveral Remedies for each Diſorder; not only becauſe All are not equally eaſy to be procured at all Times and in all Places: But likewiſe becauſe the Medicine which cures one Man, will not always cure ano<g ref="char:EOLhyphen"/>ther of the ſame Diſtemper. Nor will it cure the ſame Man at all Times. Therefore it was neceſ<g ref="char:EOLhyphen"/>ſary to have a Variety. However, I have ſub<g ref="char:EOLhyphen"/>join'd the Letter <hi>I</hi> to thoſe Medicines, which are ſaid to be infallible.—Thirdly, Obſerve all the
-<pb n="xiii" facs="tcp:009867_0013_0F7B331AF90AC0B0"/>
+<pb n="xiii" facs="unknown:009867_0013_0F7B331AF90AC0B0"/>
 Time the greateſt Exactneſs in your Regimen, or manner of Living. Abſtain from all mixt, or all high ſeaſon'd Food. Uſe plain Diet, eaſy of Digeſtion: And this as ſparingly as you can, con<g ref="char:EOLhyphen"/>ſiſtent with Eaſe and Strength. Drink only Wa<g ref="char:EOLhyphen"/>ter, if it agrees with your Stomach; if not, good clear Small-beer. Uſe as much Exerciſe daily, in the open Air, as you can without Wearineſs. Sup at Six or Seven on the lighteſt Food: Go to Bed early, and riſe betimes, To perſevere with Steadineſs in this Courſe, is often more than half the Cure. Above all, add to the reſt, (for it is not Labour loſt) that old, unfaſhionable Medi<g ref="char:EOLhyphen"/>cine, PRAYER. And have Faith in GOD, who <hi>"killeth and maketh alive, who bringeth down to the Grave and bringeth up."</hi>
             </p>
             <p n="16">16. For the Sake of thoſe who deſire, through the Bleſſing of GOD, to retain the Health which they have recovered, I have added a few plain eaſy Rules, chiefly tranſcribed from Dr. <hi>Cheyne.</hi>
@@ -189,7 +190,7 @@ Time the greateſt Exactneſs in your Regimen, or manner of Living. Abſtain fro
             <p n="2">2. Tender People ſhould have thoſe who lie with them or are much about them, ſound, ſweet and healthy.</p>
             <p n="3">3. Every one that would preſerve Health, ſhould be as clean and ſweet as poſſible in their Houſes, Cloaths, and Furniture.</p>
             <p n="2">II. 1. The great Rule of Eating and Drinking is,
-<pb n="xiv" facs="tcp:009867_0014_0F7B331B878483C8"/>
+<pb n="xiv" facs="unknown:009867_0014_0F7B331B878483C8"/>
 To ſuit the Quality and Quantity of Food to the Strength of our Degeſtion; to take always ſuch a Sort and ſuch a Meaſure of Food, as ſits light and eaſy on the Stomach.</p>
             <p n="2">2. All pickled, or ſmoaked, or ſalted Food, and all high-ſeaſon'd is unwholſome.</p>
             <p n="3">3. Nothing conduces more to Health, than Abſtinence and plain Food, with due Labour.</p>
@@ -203,7 +204,7 @@ To ſuit the Quality and Quantity of Food to the Strength of our Degeſtion; to 
             <p n="3">III. 1. Tender Perſons ſhould eat very light Suppers; and that two or three Hours before going to Bed.</p>
             <p n="2">2. They ought conſtantly to go to Bed a<g ref="char:EOLhyphen"/>bout Nine, and riſe at Four or Five.</p>
             <p n="4">IV. 1. A due Degree of Exerciſe is indiſ<g ref="char:EOLhyphen"/>penſably
-<pb n="xv" facs="tcp:009867_0015_0F7B331E948C5488"/>
+<pb n="xv" facs="unknown:009867_0015_0F7B331E948C5488"/>
 neceſſary to Health and long Life.</p>
             <p n="2">2. Walking is the beſt Exerciſe for thoſe who are able to bear it. Riding for thoſe who are not. The open Air, when the Weather is fair, contributes much to the Benefit of Exerciſe.</p>
             <p n="3">3. We may ſtrengthen any weak Part of the Body by conſtant Exerciſe. Thus the Lungs may be ſtrengthened by loud ſpeaking, or wal<g ref="char:EOLhyphen"/>king up an eaſy Aſcent. The Arms or Hams by ſtrongly rubbing them daily.</p>
@@ -214,7 +215,7 @@ neceſſary to Health and long Life.</p>
             <p n="8">8. Exerciſe, firſt, ſhould be always on an emp<g ref="char:EOLhyphen"/>ty Stomach; ſecondly, ſhould never be continu<g ref="char:EOLhyphen"/>ed to Wearineſs; thirdly, after it, we ſhould take Care to cool by Degrees. Otherwiſe we ſhall catch Cold.</p>
             <p n="9">9. The Fleſh-bruſh is a moſt uſeful Exerciſe eſpecially to ſtrengthen any Part that is weak.</p>
             <p n="10">10. Cold-bathings is a great Advantage to Health. It prevents Abundance of Diſeaſes. It promotes Perſpiration, helps the Circulation of the Blood, and prevents the Danger of catch<g ref="char:EOLhyphen"/>ing
-<pb n="xvi" facs="tcp:009867_0016_0F7B331F5FFF73B8"/>
+<pb n="xvi" facs="unknown:009867_0016_0F7B331F5FFF73B8"/>
 Cold. Tender People ſhould pour Water upon the Head before they go in, and walk in, ſwiftly. To jump in with the Head foremoſt, is too great a Shock to Nature.</p>
             <p n="5">V. 1. Coſtiveneſs cannot long conſiſt with Health. Therefore Care ſhould be taken to re<g ref="char:EOLhyphen"/>move it at the Begining; and when it is remo<g ref="char:EOLhyphen"/>ved, to prevent its Return, by ſoft, cool, open<g ref="char:EOLhyphen"/>ing Diet.</p>
             <p n="2">2. Obſtructed Perſpiration (vulgarly called catching Cold) is one great Source of Diſeaſes. Whenever there appears the leaſt Sign of this let it be removed by gentle Sweats.</p>
@@ -230,7 +231,7 @@ Cold. Tender People ſhould pour Water upon the Head before they go in, and walk
             </closer>
          </div>
          <div type="postscript">
-            <pb n="xvii" facs="tcp:009867_0017_0F7B3320653160A8"/>
+            <pb n="xvii" facs="unknown:009867_0017_0F7B3320653160A8"/>
             <head>POSTSCRIPT.</head>
             <p n="1">
                <hi>1.</hi> IT was a great Surpriſe to the Editor of the following Collection, that there was ſo ſwift and large a Demand for it; that nine Impreſſions were called for in four or five Years; and that it was not only republiſhed by the Bookſellers in a neighbouring Nation, but alſo inſerted by Parts in their public Papers, and ſo propagated through the whole Kingdom. This encouraged him carefully to reviſe the whole, and to publiſh it again, with ſeveral Alterations, which it is hoped may make it of greater Uſe to thoſe who love common Senſe and common Honeſty.</p>
@@ -238,7 +239,7 @@ Cold. Tender People ſhould pour Water upon the Head before they go in, and walk
                <hi>2.</hi> Thoſe Alterations are ſtill in Purſuance of my firſt Deſign, To ſet down cheap, and ſafe, and eaſy Medicines; eaſy to be known, eaſy to be procured, and eaſy to be applied by plain unlettered Men. Ac<g ref="char:EOLhyphen"/>cordingly, I have ommitted a conſiderable Number which, tho' cheap and ſafe, were not ſo common or well known; and have added almoſt an equal Num<g ref="char:EOLhyphen"/>ber, to which that Objection cannot be made: which are not only of ſmall Price, and extreamly ſafe, but likewiſe eaſily to be found, if not in every Houſe or Yard, yet in every Town, and almoſt every Village throughout the Kingdom.</p>
             <p n="3">
                <hi>3.</hi> It is becauſe they are not ſafe, but extremely dangerous, that I have omitted (together with An<g ref="char:EOLhyphen"/>timony) the four <hi>Herculean</hi> Medicines, Opium, <note n="*" place="bottom">Except in One Inſtance.</note> the Bark,<note n="*" place="bottom">Except in One Inſtance.</note> Steel, and the various Preparations of
-<pb n="xviii" facs="tcp:009867_0018_0F7B3320DE626588"/>
+<pb n="xviii" facs="unknown:009867_0018_0F7B3320DE626588"/>
 Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapple with. How many fatal Effects have theſe produced, even in the Hands of no ordinary Phyſicians? With regard to four of theſe, the Inſtances are glaring and undeniable. And where<g ref="char:EOLhyphen"/>as Quickſilver, the fifth, is in its native Form, as innocent as Bread or Water, has not the Art been diſcov<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>'d, ſo to <hi>prepare</hi> it, as to make it the moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -260,7 +261,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
       </front>
       <body>
          <div type="recipes">
-            <pb facs="tcp:009867_0019_0F7B3321A5274E88"/>
+            <pb facs="unknown:009867_0019_0F7B3321A5274E88"/>
             <head>A COLLECTION. OF RECEIPTS.</head>
             <div n="1" type="recipe">
                <head>
@@ -280,7 +281,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                </p>
                <p n="7">7. Or, drink a Quart of <hi>cold Water,</hi> juſt before the cold Fit. Then go to Bed and ſweat:</p>
                <p n="8">
-                  <pb n="20" facs="tcp:009867_0020_0F7B33224B3A5038"/>8. Or, make ſix middling Pills of <hi>Cobwebs,</hi> Take one a little before the cold Fit: Two a little before the next Fit: The other three, if Need be, a little before the third Fit. I never knew this fail:</p>
+                  <pb n="20" facs="unknown:009867_0020_0F7B33224B3A5038"/>8. Or, make ſix middling Pills of <hi>Cobwebs,</hi> Take one a little before the cold Fit: Two a little before the next Fit: The other three, if Need be, a little before the third Fit. I never knew this fail:</p>
                <p n="9">9. Or, two Tea-ſpoonfuls of <hi>Sal Prunellae</hi> an Hour before the Fit. It commonly cures in thrice taking:</p>
                <p n="10">10. Or, a Teaſſpoonful of <hi>Spirits of Hartſhorn,</hi> in a Glaſs of Water:</p>
                <p n="11">11. Or, eat a <hi>Lemon,</hi> Rind and all:</p>
@@ -303,7 +304,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                <p n="6">6. You may uſe yourſelf to it, without any Danger, by be<g ref="char:EOLhyphen"/>ginning in <hi>May,</hi> and at firſt juſt plunging in, and coming out immediately. Tho' many have begun in Winter, without any Inconvenience.</p>
             </div>
             <div n="4" type="recipe">
-               <pb n="21" facs="tcp:009867_0021_0F7B332370B6C788"/>
+               <pb n="21" facs="unknown:009867_0021_0F7B332370B6C788"/>
                <head>
                   <hi>4.</hi> A Quarian Ague. <note n="‡" place="bottom">That is, an <hi>Ague</hi> which miſſes two Days coming on <hi>Monday</hi> (ſup<g ref="char:EOLhyphen"/>poſe) and again on <hi>Thurſday.</hi>
                   </note>
@@ -332,7 +333,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                <p n="24">Or, (uſing the Internal Medicine at the ſame Time) apply a Plaiſter of <hi>Venice</hi> Treacle:</p>
                <p n="25">25. Or, waſh it with Water wherein Bran is boiled:</p>
                <p n="26">
-                  <pb n="22" facs="tcp:009867_0022_0F7B3323C735B400"/>26. Or, boil a Handfull of <hi>Sage,</hi> two Handfulls of <hi>Elder<g ref="char:EOLhyphen"/>leaves</hi> (or <hi>Bark</hi>) and an Ounce of <hi>Allum</hi> in two Quarts of Forge Water, to a Pint. Anoint with this every Night.</p>
+                  <pb n="22" facs="unknown:009867_0022_0F7B3323C735B400"/>26. Or, boil a Handfull of <hi>Sage,</hi> two Handfulls of <hi>Elder<g ref="char:EOLhyphen"/>leaves</hi> (or <hi>Bark</hi>) and an Ounce of <hi>Allum</hi> in two Quarts of Forge Water, to a Pint. Anoint with this every Night.</p>
             </div>
             <div n="6" type="recipe">
                <head>
@@ -365,7 +366,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                <p n="39">39. Or, take an ounce of <hi>Quickſilver</hi> every Morning, and a Spoonful of the <hi>Gas</hi> of <hi>Sulpher,</hi> in a large Glaſs of Spring-Water at Five in the Evening, and at Bed-time, 'till you are well. <hi>I</hi>
                </p>
                <p n="40">
-                  <pb n="23" facs="tcp:009867_0023_0F7B332486F2CF00"/>40. For preſent Relief, Vomit with a Quart or more of <hi>warm Water.</hi> The more you drink of it the better.</p>
+                  <pb n="23" facs="unknown:009867_0023_0F7B332486F2CF00"/>40. For preſent Relief, Vomit with a Quart or more of <hi>warm Water.</hi> The more you drink of it the better.</p>
                <p>
                   <hi>Do this whenever you find any Motion to vomit, and take Care always to keep your Body open.</hi>
                </p>
@@ -418,7 +419,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                </p>
                <p n="60">60. Or, ſpread the <hi>Aſhes</hi> of a Linen Cloath thick on ano<g ref="char:EOLhyphen"/>ther Linnen Cloath, and apply it:</p>
                <p n="61">
-                  <pb n="24" facs="tcp:009867_0024_0F7B3327D186C548"/>61. Or, ſtrew on it the <hi>Aſhes</hi> of a Linnen Rag, dipt in ſharp <hi>Vinegar</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="24" facs="unknown:009867_0024_0F7B3327D186C548"/>61. Or, ſtrew on it the <hi>Aſhes</hi> of a Linnen Rag, dipt in ſharp <hi>Vinegar</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t:</p>
                <p n="62">62. Or take <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -465,7 +466,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                <p n="78">78. Or, a little <hi>Saffron</hi> in a white Bread Poultis.— 'Tis proper to purge alſo.</p>
             </div>
             <div n="17" type="recipe">
-               <pb n="25" facs="tcp:009867_0025_0F7B332867C17998"/>
+               <pb n="25" facs="unknown:009867_0025_0F7B332867C17998"/>
                <head>
                   <hi>17.</hi> Hard Breaſts.</head>
                <p n="79">79. Apply <hi>Turnips roaſted</hi> 'till ſoft, then maſh'd and mixt with a little <hi>Oil of Roſes.</hi> Change this twice a Day, keep<g ref="char:EOLhyphen"/>ing the Breaſt very warm with Flannel.</p>
@@ -513,7 +514,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                </p>
                <p n="93">93. Or, <hi>Oil</hi> and <hi>Parſley</hi> ſtampt together:</p>
                <p n="94">
-                  <pb n="26" facs="tcp:009867_0026_0F7B33295B6EBC50"/>94. Or, apply <hi>Oil,</hi> and ſtrew on it powder'd <hi>Ginger,</hi>
+                  <pb n="26" facs="unknown:009867_0026_0F7B33295B6EBC50"/>94. Or, apply <hi>Oil,</hi> and ſtrew on it powder'd <hi>Ginger,</hi>
                </p>
             </div>
             <div n="23" type="recipe">
@@ -536,7 +537,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                <p n="101">101. Or, Apply <hi>Gooſe-dung</hi> and <hi>Celandine</hi> beat well together, and ſpread on a fine Rag. It will both cleanſe and heal the Sore.</p>
                <p n="102">102. Or a Poultis of <hi>wild Parſnips;</hi> Flowers, Leaves and Stalks, changing it Morning and Evening.</p>
                <p n="103">
-                  <pb n="27" facs="tcp:009867_0027_0F7B3329D2D75188"/>103. Or, live three Months on <hi>Apples</hi> and <hi>Applewater:</hi>
+                  <pb n="27" facs="unknown:009867_0027_0F7B3329D2D75188"/>103. Or, live three Months on <hi>Apples</hi> and <hi>Applewater:</hi>
                </p>
                <p n="104">104. Or, take half a Dram of <hi>Venice-Soap</hi> twice a Day:</p>
                <p n="405">405. Or, take <hi>Brimſtone</hi> and <hi>Gas of Sulphur,</hi> as Art. 39.— This has cured one far advanced in Years.</p>
@@ -577,7 +578,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                   <hi>29.</hi> Chin-Cough or Hooping-Cough.</head>
                <p n="118">118. Uſe the <hi>Cold Bath</hi> daily:</p>
                <p n="119">
-                  <pb n="28" facs="tcp:009867_0028_0F7B332A8E9809C8"/>119. Or, rub the Feet thoroughly with <hi>Hog's-lard,</hi> before the Fire, at going to Bed, and keep the Child warm therein:</p>
+                  <pb n="28" facs="unknown:009867_0028_0F7B332A8E9809C8"/>119. Or, rub the Feet thoroughly with <hi>Hog's-lard,</hi> before the Fire, at going to Bed, and keep the Child warm therein:</p>
                <p n="120">120. Or, rub the Back at lying down with <hi>old Rum.</hi> It ſel<g ref="char:EOLhyphen"/>dom fails.</p>
                <p n="121">121. Or, give a ſpoonful of Juice of <hi>Penny-royal</hi> mixt with brown <hi>Sugar-candy,</hi> twice a Day:</p>
                <p n="122">122. Or, half a Pint of <hi>Milk</hi> warm from the Cow with the Quantity of a nutmeg of Conſerve of Roſes diſſolv'd in it every Morning.</p>
@@ -618,7 +619,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                <p n="133">133. Pare very thin the <hi>yellow Rind</hi> of an <hi>Orange.</hi> Roll it up inſide out and thruſt a Roll into each Noſtril.</p>
             </div>
             <div n="35" type="recipe">
-               <pb n="29" facs="tcp:009867_0029_0F7B332B4C615790"/>
+               <pb n="29" facs="unknown:009867_0029_0F7B332B4C615790"/>
                <head>
                   <hi>35.</hi> The Colick (in the Fit.)</head>
                <p n="134">134. Drink a Pint of <hi>cold Water:</hi>
@@ -663,7 +664,7 @@ Quickſilver. <hi>Herculean</hi> indeed! Far too ſtrong for common Men to grapp
                   <hi>39.</hi> An Hyſterick Colick. <note n="‡" place="bottom">Is attended with a violent Pain about the Pit of the Stomach, with great ſinking of the Spirits, and often with greeniſh Vomitings.</note>
                </head>
                <p n="149">149. Mrs. <hi>Watts,</hi> by uſing the <hi>Cold Bath</hi> two and twenty Times in a Month, was entirely cured of an Hyſterick
-<pb n="30" facs="tcp:009867_0030_0F7B332C12B0FD08"/>
+<pb n="30" facs="unknown:009867_0030_0F7B332C12B0FD08"/>
 Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wandering Pains in her Limbs and total Loſs of Appetite.</p>
                <p n="150">150. In the Fit, drink half a Pint of <hi>Water</hi> with a little <hi>Wheat-flour</hi> in it, and a Spoonful of <hi>Vinegar:</hi>
                </p>
@@ -699,7 +700,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="163">163. Or, boil two Handfuls of <hi>Sorrel</hi> in a Pint of Whey. Strain it, and drink a Glaſs thrice a Day:</p>
                <p n="164">164. Or take a Spoonful of Syrup of <hi>Fox-glove,</hi> Morning and Evening:</p>
                <p n="165">
-                  <pb n="31" facs="tcp:009867_0031_0F7B332D6CDC9A98"/>165. Or, turn a Pint of ſkim'd Milk with half a Pint of ſmall Beer. Boil in this Whey, about twenty <hi>Ivy-leaves,</hi> and two or three Sprigs of <hi>Hyſſop.</hi> Drink half over Night, the reſt in the Morning. Do this if needful for two Months daily.—This has cured in a deſperate Caſe.</p>
+                  <pb n="31" facs="unknown:009867_0031_0F7B332D6CDC9A98"/>165. Or, turn a Pint of ſkim'd Milk with half a Pint of ſmall Beer. Boil in this Whey, about twenty <hi>Ivy-leaves,</hi> and two or three Sprigs of <hi>Hyſſop.</hi> Drink half over Night, the reſt in the Morning. Do this if needful for two Months daily.—This has cured in a deſperate Caſe.</p>
                <p n="166">166. Or, take a <hi>Cow-heel</hi> from the Tripe-houſe ready dreſt, two Quarts of <hi>new Milk,</hi> two Ounces of <hi>Hartſhorn-ſhavings</hi> two Ounces of <hi>Iſing-glaſs,</hi> a Quarter of a Pound of <hi>Sugar-candy,</hi> and a Race of <hi>Ginger.</hi> Put all theſe in a Pot; and ſet them in an Oven after the Bread is drawn. Let it con<g ref="char:EOLhyphen"/>tinue there 'till the Oven is near cold; and let the Patient live on this.—I have known this cure a deep conſumption more than once.</p>
                <p n="167">167. Or, every Morning cut up a little Turf of freſh Earth, and, lying down, breath into the Hole for a Quarter of an Hour.—I have known a deep Conſumption cured thus.</p>
                <p n="168">168. Or, take half a Pint of ſkim'd <hi>Milk<g ref="char:punc">▪</g>
@@ -726,7 +727,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                   </gap>nking after it a Draught of ſtrong Infuſion thereof.</p>
             </div>
             <div n="44" type="recipe">
-               <pb n="32" facs="tcp:009867_0032_0F7B332DDC36A418"/>
+               <pb n="32" facs="unknown:009867_0032_0F7B332DDC36A418"/>
                <head>
                   <hi>44.</hi> Convulſions in Children.</head>
                <p n="175">175. Scrape <hi>Piony Roots</hi> freſh digged. Apply what you have ſcraped off to the Soles of the Feet. It helps immediately.</p>
@@ -766,7 +767,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="186">186. Drink a Pint and a half of <hi>cold Water</hi> lying down in Bed:</p>
                <p n="187">187. Or mix on Ounce of <hi>Linſeed Oil,</hi> with an Ounce of <hi>white Sugar-candy</hi> powder'd, and take a Tea-ſpoonful whenever the Cough comes:</p>
                <p n="188">
-                  <pb n="33" facs="tcp:009867_0033_0F7B332E779C7EF8"/>188. Or, make a Hole thro' a <hi>Lemon</hi> and fill it with <hi>Honey.</hi> Roaſt it, and catch the Juice. Take a Tea-ſpoonful of this frequently:</p>
+                  <pb n="33" facs="unknown:009867_0033_0F7B332E779C7EF8"/>188. Or, make a Hole thro' a <hi>Lemon</hi> and fill it with <hi>Honey.</hi> Roaſt it, and catch the Juice. Take a Tea-ſpoonful of this frequently:</p>
                <p n="189">189. Every Cough is a dry Cough at firſt. As long as it con<g ref="char:EOLhyphen"/>tinues ſo, it may be cured by chewing immediately after you cough, the Quantity of a Pepper-corn of <hi>Peruvian-Bark.</hi> Swallow your Spittle as long as it is bitter, and then ſpit out the Wood. If you cough again, do this again. It very ſeldom fails to cure any dry Cough.</p>
             </div>
             <div n="50" type="recipe">
@@ -795,7 +796,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="197">197. Or, uſe the <hi>Cold Bath.</hi>—It ſeldom fails:</p>
                <p n="198">198. Or, take half a Pint of Decoction of <hi>Onions</hi> Morning and Evening;</p>
                <p n="199">
-                  <pb n="34" facs="tcp:009867_0034_0F7B332F0591E740"/>199. Or, a Spoonful of Juice of <hi>Onions:</hi>
+                  <pb n="34" facs="unknown:009867_0034_0F7B332F0591E740"/>199. Or, a Spoonful of Juice of <hi>Onions:</hi>
                </p>
                <p n="200">200. Or, take peel'd <hi>Turnips</hi> three Pounds, <hi>Sugar</hi> one Pound, put them in an Earthen Pot cloſe cover'd for twenty-four Hours. Strain the Juice and take two or three Spoonfuls Morning and Evening:</p>
                <p n="201">201. Or, mix the Juice of boil'd <hi>Turnips</hi> with fine powder'd <hi>Sugar candy,</hi> 'till it is a Kind of Syrup. Swallow a little of it Drop by Drop from Time to Time:</p>
@@ -830,7 +831,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                   <hi>58.</hi> The Cramp (to cure.)</head>
                <p n="211">211. Stretch out the Limb immediately:</p>
                <p n="212">
-                  <pb n="35" facs="tcp:009867_0035_0F7B3331A18FB878"/>212. Or ſtretch out the oppoſite Arm and clench the Fiſt:</p>
+                  <pb n="35" facs="unknown:009867_0035_0F7B3331A18FB878"/>212. Or ſtretch out the oppoſite Arm and clench the Fiſt:</p>
                <p n="213">213. Or, chafe the Part with <hi>Hungary-Water:</hi>
                </p>
                <p n="214">214. Or, with <hi>rectified Spirits of Wine:</hi>
@@ -875,7 +876,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="226">226. Take a red <hi>Onion,</hi> pick out the Core; fill up the Place with Oil of roaſted Almonds. Let it ſtand a Night: then bruiſe and ſtrain it. Drop three or four Drops into the Ear, Morning and Evening, and ſtop it with black Wool.</p>
             </div>
             <div n="64" type="recipe">
-               <pb n="36" facs="tcp:009867_0036_0F7B3332345E18F0"/>
+               <pb n="36" facs="unknown:009867_0036_0F7B3332345E18F0"/>
                <head>
                   <hi>64.</hi> To cauſe an eaſy Delivery.</head>
                <p n="227">227. Peel, ſlice and fry a large white <hi>Onion</hi> in two or three Spoonfuls of the beſt <hi>Oil,</hi> till it is tender, Boil this with half a Glaſs of Water: Strain and drink it in the Morning faſting, for two or three Weeks before the Time of Child<g ref="char:EOLhyphen"/>birth.</p>
@@ -902,7 +903,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="235">235. Or, apply green <hi>Dock-leaves</hi> to the Joints and Soles of the Feet, changing them once a Day<g ref="char:punc">▪</g>
                </p>
                <p n="236">
-                  <pb n="37" facs="tcp:009867_0037_0F7B333323AF3548"/>236. Or, abſtain from all drink for thirty Days. To eaſe your Thirſt hold often on your Tongue, a thin ſmall Slice of toaſted Bread dipt in Brandy; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <pb n="37" facs="unknown:009867_0037_0F7B333323AF3548"/>236. Or, abſtain from all drink for thirty Days. To eaſe your Thirſt hold often on your Tongue, a thin ſmall Slice of toaſted Bread dipt in Brandy; <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, waſh the Mouth with Juice of Lemons.</p>
                <p n="237">237. <hi>Tar-water</hi> drank twice a day has cured many:</p>
@@ -937,7 +938,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="252">252. Boil <hi>Rue,</hi> or <hi>Roſemary,</hi> or <hi>Garlick,</hi> and let the Steam go into the Ear thro' a Funnel.</p>
             </div>
             <div n="69" type="recipe">
-               <pb n="38" facs="tcp:009867_0038_0F7B33338A842380"/>
+               <pb n="38" facs="unknown:009867_0038_0F7B33338A842380"/>
                <head>
                   <hi>69.</hi> Ear-Ach from Heat.</head>
                <p n="253">253. Apply Cloths four Times doubled and dipt in <hi>cold Wa<g ref="char:EOLhyphen"/>ter,</hi> changing them when warm, for half an Hour.</p>
@@ -995,7 +996,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="267">267. Take a Dram of powder'd <hi>Betony</hi> every Morning.</p>
             </div>
             <div n="78" type="recipe">
-               <pb n="39" facs="tcp:009867_0039_0F7B33344C946DB0"/>
+               <pb n="39" facs="unknown:009867_0039_0F7B33344C946DB0"/>
                <head>78. <hi>Blindneſs.</hi>
                </head>
                <p n="268">268. Is often cured by <hi>Cold Bathing:</hi>
@@ -1041,7 +1042,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                <p n="281">281. Apply a Poultis of fine leaves of <hi>Rue:</hi>
                </p>
                <p n="282">
-                  <pb n="40" facs="tcp:009867_0040_0F7B33350FB91DB0"/>282. Waſh the Eye Morning and Evening with a Decoction of <hi>Quince-leaves:</hi>
+                  <pb n="40" facs="unknown:009867_0040_0F7B33350FB91DB0"/>282. Waſh the Eye Morning and Evening with a Decoction of <hi>Quince-leaves:</hi>
                </p>
                <p n="283">283. Or, take a Dram of <hi>Betony-leaves</hi> powder'd daily.</p>
             </div>
@@ -1079,7 +1080,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                   </gap> cures Pearls, Rheums, and often Blindneſs itſelf.</p>
             </div>
             <div n="90" type="recipe">
-               <pb n="41" facs="tcp:009867_0041_0F7B3335D05939F8"/>
+               <pb n="41" facs="unknown:009867_0041_0F7B3335D05939F8"/>
                <head>
                   <hi>90.</hi> Weak Eyes.</head>
                <p n="292">292. Moiſten the Eyelids Morning and Evening with <hi>compho<g ref="char:EOLhyphen"/>rated Spirits of Wine,</hi> keeping them ſhut.</p>
@@ -1139,7 +1140,7 @@ Colick, Fits, and convulſive Motions, continual Sweatings and Vomiting, wanderi
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>old Water</hi> lying down in Bed;
-<pb n="42" facs="tcp:009867_0042_0F7B3336E61BCC60"/>
+<pb n="42" facs="unknown:009867_0042_0F7B3336E61BCC60"/>
 I never knew it do Hurt:</p>
                <p n="310">310. Or, a large Glaſs of <hi>Tar-water</hi> warm, every Hour:</p>
                <p n="311">311. The beſt of all Juleps in a Fever, is this: Toaſt a large thin Slice of Bread, without Burning; put it hot into a Pint of cold Water; then ſet it on the Fire till it is pretty hot. In a dry Heat it may be given cold; in a moiſt Heat warm; the move largely the better:</p>
@@ -1191,7 +1192,7 @@ I never knew it do Hurt:</p>
                      <desc>〈…〉</desc>
                   </gap> in a few Days:</p>
                <p n="323">
-                  <pb n="43" facs="tcp:009867_0043_0F7B33376135F018"/>323. Or, take a Tea-ſpoonful of <hi>Oil of Sulphur</hi> in a Cup of <hi>Balm Tea,</hi> once or twice a Day.</p>
+                  <pb n="43" facs="unknown:009867_0043_0F7B33376135F018"/>323. Or, take a Tea-ſpoonful of <hi>Oil of Sulphur</hi> in a Cup of <hi>Balm Tea,</hi> once or twice a Day.</p>
             </div>
             <div n="100" type="recipe">
                <head>
@@ -1224,7 +1225,7 @@ I never knew it do Hurt:</p>
                      <desc>•</desc>
                   </gap>it over <hi>Camomile-Flowers</hi> boil'd in Milk:</p>
                <p n="331">
-                  <pb n="44" facs="tcp:009867_0044_0F7B333805776230"/>331 Or, receive the Smoke of <hi>Turpentine</hi> caſt on burning Coals. This cures alſo the <hi>Bloody-Flux,</hi> and the <hi>Falling of the Fundament:</hi>
+                  <pb n="44" facs="unknown:009867_0044_0F7B333805776230"/>331 Or, receive the Smoke of <hi>Turpentine</hi> caſt on burning Coals. This cures alſo the <hi>Bloody-Flux,</hi> and the <hi>Falling of the Fundament:</hi>
                </p>
                <p n="332">332. Or drink two or three Quarts of <hi>warm Water:</hi>
                </p>
@@ -1318,7 +1319,7 @@ I never knew it do Hurt:</p>
                   </gap>
                </p>
                <p n="348">
-                  <pb n="45" facs="tcp:009867_0045_0F7B333B56558F50"/>3<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <pb n="45" facs="unknown:009867_0045_0F7B333B56558F50"/>3<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>. To prevent its Return, diſſolve half an Ounce of <hi>Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1386,7 +1387,7 @@ I never knew it do Hurt:</p>
                   <hi>110.</hi> The Creen Sickneſs.</head>
                <p n="358">358. Take an Ounce of <hi>Quick-ſilver</hi> every Morning,—As Art. 39.</p>
                <p n="359">
-                  <pb n="46" facs="tcp:009867_0046_0F7B333BEC8F2E48"/>359. Or, a Cup of of Decoction of <hi>Lignum Guaiacum,</hi> Morn<g ref="char:EOLhyphen"/>ing and Evening.</p>
+                  <pb n="46" facs="unknown:009867_0046_0F7B333BEC8F2E48"/>359. Or, a Cup of of Decoction of <hi>Lignum Guaiacum,</hi> Morn<g ref="char:EOLhyphen"/>ing and Evening.</p>
             </div>
             <div n="111" type="recipe">
                <head>
@@ -1425,7 +1426,7 @@ I never knew it do Hurt:</p>
                </p>
             </div>
             <div n="114" type="recipe">
-               <pb n="47" facs="tcp:009867_0047_0F7B333CD2CDF318"/>
+               <pb n="47" facs="unknown:009867_0047_0F7B333CD2CDF318"/>
                <head>
                   <hi>114.</hi> Head-ach from Heat.</head>
                <p n="377">377. Apply to the Forehead Cloths dipt in <hi>cold Water</hi> for an Hour:</p>
@@ -1483,7 +1484,7 @@ I never knew it do Hurt:</p>
                      <desc>〈◊〉</desc>
                   </gap> any Thing that makes you ſneeze:</p>
                <p n="391">
-                  <pb n="48" facs="tcp:009867_0048_0F7B333D4E560758"/>391. Or, a little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="48" facs="unknown:009867_0048_0F7B333D4E560758"/>391. Or, a little <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>anded <hi>Ginger:</hi>
                </p>
@@ -1531,7 +1532,7 @@ I never knew it do Hurt:</p>
                <p n="406">406. Apply warm Flannel ſoaked in <hi>Spirits of Wine:</hi>
                </p>
                <p n="407">
-                  <pb n="49" facs="tcp:009867_0049_0F7B333E0D0FD770"/>407. Or, hold a <hi>live Puppy</hi> conſtantly on the Belly. —Dr. <hi>Sydenham.</hi>
+                  <pb n="49" facs="unknown:009867_0049_0F7B333E0D0FD770"/>407. Or, hold a <hi>live Puppy</hi> conſtantly on the Belly. —Dr. <hi>Sydenham.</hi>
                </p>
                <p n="408">408. Or immerge up to the Breaſt in the <hi>warm Bath:</hi>
                </p>
@@ -1569,7 +1570,7 @@ I never knew it do Hurt:</p>
                      <desc>•</desc>
                   </gap> of the Hands, and dry it in.—It commonly cures in three Days.</p>
                <p n="420">420. Or, beat together the Juice of two or three <hi>Lemons,</hi>
-                  <pb n="50" facs="tcp:009867_0050_0F7B333EC75A7628"/>
+                  <pb n="50" facs="unknown:009867_0050_0F7B333EC75A7628"/>
 with the ſame Quantity of <hi>Oil</hi> of <hi>Roſes.</hi> Anoint the Parts affected. It cures in two or three Times uſing:</p>
                <p n="421">421. Or, mix an Ounce of <hi>Ginger</hi> finely powder'd with a Quarter of a Pound of freſh Butter. Uſe it Morning and Evening.—It cures in four or five Days.</p>
             </div>
@@ -1601,7 +1602,7 @@ with the ſame Quantity of <hi>Oil</hi> of <hi>Roſes.</hi> Anoint the Parts aff
                <p n="431">431. Take twelve Grains of <hi>Salt</hi> of <hi>Amber</hi> in a little Water.</p>
             </div>
             <div n="130" type="recipe">
-               <pb n="51" facs="tcp:009867_0051_0F7B33407B439D98"/>
+               <pb n="51" facs="unknown:009867_0051_0F7B33407B439D98"/>
                <head>
                   <hi>130.</hi> The Legs inflam'd.</head>
                <p n="432">432. Apply <hi>Fullers Earth</hi> ſpread on brown Paper: It ſeldom fails.</p>
@@ -1654,7 +1655,7 @@ with the ſame Quantity of <hi>Oil</hi> of <hi>Roſes.</hi> Anoint the Parts aff
                </p>
             </div>
             <div n="135" type="recipe">
-               <pb n="52" facs="tcp:009867_0052_0F7B334105466720"/>
+               <pb n="52" facs="unknown:009867_0052_0F7B334105466720"/>
                <head>
                   <hi>135.</hi> For one ſeemingly kill'd with Lightning, or a Damp, or Suffocated.</head>
                <p n="448">448. Plunge him immediately into <hi>cold Water:</hi>
@@ -1688,7 +1689,7 @@ with the ſame Quantity of <hi>Oil</hi> of <hi>Roſes.</hi> Anoint the Parts aff
                   <hi>139.</hi> The Bite of a mad Dog.</head>
                <p n="457">457. Apply Aſhes of <hi>Trefoil</hi> mixt with <hi>Hog's-lard.</hi> This has cured one that was bit on the Noſe:</p>
                <p n="458">458. Or, plunge into <hi>cold Water</hi> daily for twenty Days, and
-<pb n="53" facs="tcp:009867_0053_0F7B334484E5DC48"/>
+<pb n="53" facs="unknown:009867_0053_0F7B334484E5DC48"/>
 keep as long under it as poſſible. This has cured, even af<g ref="char:EOLhyphen"/>ter the <hi>Hydrophobia</hi> was begun: <note n="*" place="bottom">If this is really a Nervous Diſorder, what Wonder, if it ſhould be cured by <hi>Cold Bathing?</hi>
                   </note>
                </p>
@@ -1715,7 +1716,7 @@ keep as long under it as poſſible. This has cured, even af<g ref="char:EOLhyph
                <p n="468">468. Or, boil five large Heads of <hi>Hemp</hi> in a Pint of Water to half. Strain it, and drink it going to Bed two or three Nights. It ſeldom fails.</p>
                <p n="469">469. Or, take from eight to twelve Grains of <hi>Colomel,</hi> in a Pill, for two or three Nights taking Care not to catch Cold. It vomits and purges.</p>
                <p n="470">470. Or, burn a little <hi>Sulphur of Antimony</hi> on a Chafing-Diſh
-<pb n="54" facs="tcp:009867_0054_0F7B3345648D19F8"/>
+<pb n="54" facs="unknown:009867_0054_0F7B3345648D19F8"/>
 of Coals, and receive the Smoke by a Funnel. In a few Minutes it will take Effect.</p>
                <p>Let any of theſe Medicines be uſed at the <hi>regular</hi> Time as near as can be judged.</p>
             </div>
@@ -1752,7 +1753,7 @@ of Coals, and receive the Smoke by a Funnel. In a few Minutes it will take Effec
                </p>
             </div>
             <div n="146" type="recipe">
-               <pb n="55" facs="tcp:009867_0055_0F7B33458EF329E8"/>
+               <pb n="55" facs="unknown:009867_0055_0F7B33458EF329E8"/>
                <head>
                   <hi>146.</hi> Nervous Diſorders.</head>
                <p n="482">482. Are of two Kinds; 1. Thoſe which proceed from the Nerves being compreſs'd by the Swelling of the muſcular Fleſh: Or, 2. When the Nerves themſelves are diſorder'd In the former Caſe, Temperance and Abſtemiouſneſs will generally cure: In the latter, when the Nerves perform their Office too languidly, a GOOD AIR is the firſt requiſite. The Patient alſo ſhould riſe early, and as ſoon as the Dew is off the Ground, walk: Let his Breakfaſt be <hi>Mother of Thyme-Tea,</hi> gather'd in <hi>June,</hi> uſing half as much as we do of com<g ref="char:EOLhyphen"/>mon Tea. It ſhould be drunk with the fineſt Sugar; and Cream may be added if he pleaſe: Coffee muſt be avoided. When the Nerves are too ſenſible, let the Perſon breathe a proper Air. Let him eat Veal, Chickens, or Mutton. Ve<g ref="char:EOLhyphen"/>getables ſhould be eat ſparingly; the moſt innocent is the French Bean whilſt young, and the beſt Root the Turnip. Wine ſhould be avoided carefully: So ſhould all Sauces. Sometimes he may breakfaſt upon a Quarter of an Ounce of the Powder of <hi>Valerian-root</hi> infus'd in hot Water, to which he may add Cream and Sugar. Tea is not proper. When the Perſon finds an uncommon Oppreſſion, let him take a large Spoonful of the Tincture of <hi>Valerian-root.</hi>
@@ -1765,7 +1766,7 @@ of Coals, and receive the Smoke by a Funnel. In a few Minutes it will take Effec
                      <hi>Dr.</hi> Uvedale.</bibl>
                </q>
                <p n="484">484. But I am firmly perſuaded, there is no Remedy in Nature
-<pb n="56" facs="tcp:009867_0056_0F7B334649B181A0"/>
+<pb n="56" facs="unknown:009867_0056_0F7B334649B181A0"/>
 for Nervous, Diſorders of every Kind, comparable to the proper and conſtant Uſe of the <hi>Electrical Machine.</hi>
                </p>
             </div>
@@ -1803,7 +1804,7 @@ for Nervous, Diſorders of every Kind, comparable to the proper and conſtant U�
                </p>
             </div>
             <div n="151" type="recipe">
-               <pb n="57" facs="tcp:009867_0057_0F7B3347068553A8"/>
+               <pb n="57" facs="unknown:009867_0057_0F7B3347068553A8"/>
                <head>
                   <hi>151.</hi> Palſy from working with white Lead or Verdigreaſe.</head>
                <p n="497">497. Uſe <hi>warm Baths</hi> and a <hi>Milk Diet.</hi>
@@ -1853,7 +1854,7 @@ for Nervous, Diſorders of every Kind, comparable to the proper and conſtant U�
                </p>
                <p n="512">512. Or, a little of the tops of <hi>Rue</hi> with Bread and Butter, every Morning:</p>
                <p n="513">513. Or, infuſe <hi>Rue, Sage, Mint, Roſemary, Wormwood,</hi> of each a Handful, in two Quarts of the ſharpeſt <hi>Vinegar,</hi> over warm Embers for eight Days. Then ſtrain it through a Flannel, and add half an Ounce of <hi>Camphire,</hi> diſſolved in three Ounces of rectified <hi>Spirits of Wine.</hi> With this waſh
-<pb n="58" facs="tcp:009867_0058_0F7B33484F4CCF20"/>
+<pb n="58" facs="unknown:009867_0058_0F7B33484F4CCF20"/>
 the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s, Face, and Mouth, and ſnuff a little up the Noſe when you go abroad. Smell to a Spunge dipt therein, when you approach infected Perſons or Places.</p>
@@ -1901,7 +1902,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t:</p>
                <p n="528">
-                  <pb n="59" facs="tcp:009867_0059_0F7B3348C751A070"/>528. Or, infuſe from half a Dram to two Dram<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="59" facs="unknown:009867_0059_0F7B3348C751A070"/>528. Or, infuſe from half a Dram to two Dram<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> of <hi>Damaſk Roſe-Leaves</hi> dried, in half a Pint of warm Water for twelve Hours:</p>
                <p n="529">529. Or, infuſe three Drams of <hi>Sena,</hi> and a Scruple of <hi>Salt of Tartar,</hi> in half a Pint of River Water for twelve Hours. Then ſtrain and take it in the Morning.</p>
@@ -1944,7 +1945,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="540">540. Or, ſteep ſix or ſeven Cloves of <hi>Garlick</hi> in half a Pint of white Wine. Drink it lying down. It ſweats, and frequently cures at once:</p>
                <p n="541">541. Or, mix Flour of <hi>Brimſtone</hi> with <hi>Honey,</hi> equal Quanti<g ref="char:EOLhyphen"/>ties. Take three Tea-ſpoonfuls at Night, two in the Morning; and one afterwards Morning and Evening, till cured. This ſucceeds oftner than any Remedy I have found:</p>
                <p n="542">
-                  <pb n="60" facs="tcp:009867_0060_0F7B33495E967D78"/>542. Or, take Morning and Evening as much <hi>Lignum Guaia<g ref="char:EOLhyphen"/>cum</hi> powder'd, as lies on a Shilling:</p>
+                  <pb n="60" facs="unknown:009867_0060_0F7B33495E967D78"/>542. Or, take Morning and Evening as much <hi>Lignum Guaia<g ref="char:EOLhyphen"/>cum</hi> powder'd, as lies on a Shilling:</p>
                <p n="543">543. Or as much <hi>Flou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> of Sulphur,</hi> waſhing it down with a Decoction of <hi>Lignum Guaiacum:</hi>
@@ -1991,7 +1992,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap> the Fire; boil it in Milk, and take half a Pint every Morning.</p>
             </div>
             <div n="171" type="recipe">
-               <pb n="61" facs="tcp:009867_0061_0F7B334A05475950"/>
+               <pb n="61" facs="unknown:009867_0061_0F7B334A05475950"/>
                <head>
                   <hi>171.</hi> A Rupture in Children.</head>
                <p n="554">554. Boil a Spoonful of <hi>Egg-ſhells</hi> dried in an Oven and pow<g ref="char:EOLhyphen"/>der'd, in a Pint of Milk to three Quarters of a Pint. Feed the Child conſtantly with Bread boil'd in this Milk.</p>
@@ -2021,7 +2022,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="564">564. Or, apply Flannels dipt in <hi>ſtale Lie,</hi> boil'd with Salt as hot as you can bear, for an Hour.</p>
             </div>
             <div n="175" type="recipe">
-               <pb n="62" facs="tcp:009867_0062_0F7B334C8525C3A8"/>
+               <pb n="62" facs="unknown:009867_0062_0F7B334C8525C3A8"/>
                <head>
                   <hi>175.</hi> Inflammations or Swellings of the Scrotum.</head>
                <p n="565">565. Waſh it thrice a Day with ſtrong Decoction of <hi>Agrimony.</hi>
@@ -2066,7 +2067,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="576">576. Or, pound into a Pulp <hi>Sevil Oranges</hi> ſliced, Rind and all, and Powder Sugar equal Quantities. Take a Tea<g ref="char:EOLhyphen"/>ſpoonful three or four Times a Day. <hi>I.</hi>
                </p>
                <p n="577">
-                  <pb n="63" facs="tcp:009867_0063_0F7B334D16DB41E0"/>577. Water and Garden Creſſes, Muſtard, and Juice of Scur<g ref="char:EOLhyphen"/>vy-graſs help in a cold Scurvy:</p>
+                  <pb n="63" facs="unknown:009867_0063_0F7B334D16DB41E0"/>577. Water and Garden Creſſes, Muſtard, and Juice of Scur<g ref="char:EOLhyphen"/>vy-graſs help in a cold Scurvy:</p>
                <p n="578">578. When there is a continual ſalt Taſte in the Mouth, take a Pint of <hi>Lime-Water</hi> Morning and Evening.</p>
             </div>
             <div n="180" type="recipe">
@@ -2112,7 +2113,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="186" type="recipe">
-               <pb n="64" facs="tcp:009867_0064_0F7B334E08303CB8"/>
+               <pb n="64" facs="unknown:009867_0064_0F7B334E08303CB8"/>
                <head>
                   <hi>186.</hi> A Sore Throat.</head>
                <p n="591">591. Take a Pint of <hi>cold Water,</hi> lying down in Bed:</p>
@@ -2162,7 +2163,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="191" type="recipe">
-               <pb n="65" facs="tcp:009867_0065_0F7B334E8FFF5640"/>
+               <pb n="65" facs="unknown:009867_0065_0F7B334E8FFF5640"/>
                <head>
                   <hi>191.</hi> The Sting of a Waſp.</head>
                <p n="610">610. Rub the Part with bruiſed Leaves of <hi>Houſe-leek:</hi>
@@ -2213,7 +2214,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="198" type="recipe">
-               <pb n="66" facs="tcp:009867_0066_0F7B334F4E098180"/>
+               <pb n="66" facs="unknown:009867_0066_0F7B334F4E098180"/>
                <head>
                   <hi>198.</hi> Coldneſs in the Stomach.</head>
                <p n="625">625. Take a Spoonful of the Syrup of the Juice of <hi>Garduus Benedictus,</hi> faſting for three or four Mornings. <hi>I.</hi>
@@ -2251,7 +2252,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="637">637. Or, take daily four Pints of <hi>Lime-water,</hi> made by pour<g ref="char:EOLhyphen"/>ing four Quarts of Water on a Pound of freſh calcined <hi>Oy<g ref="char:EOLhyphen"/>ſter-ſhells</hi> and <hi>Cockle-ſhells.</hi>
                </p>
                <p n="638">638. "Or, take Morning and Evening a Tea-Spoonful of
-<pb n="67" facs="tcp:009867_0067_0F7B335005A6E258"/>
+<pb n="67" facs="unknown:009867_0067_0F7B335005A6E258"/>
                   <hi>Onions</hi> calcined into white Aſhes, in white Wine. An Ounce will often diſſolve the Stone."</p>
                <p n="639">639. Or, take a Tea-ſpoonful of <hi>Violet-ſeed</hi> powdered, Morn<g ref="char:EOLhyphen"/>ing and Evening. It both waſtes the Stone, and brings it away:</p>
                <p n="640">640. Or, burn the dried Shells of <hi>Kidney-Beans</hi> to Powder. Put two Tea-ſpoonfuls of this into a half Pint Tea-pot. Pour boiling Water on it at Night. In the Morning pour it off clear, warm it again, and drink it ſweetened with <hi>Ho<g ref="char:EOLhyphen"/>ney.</hi> Do this daily every other Fortnight till cured.</p>
@@ -2300,7 +2301,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="654">654. Drink largely of cold Water.</p>
             </div>
             <div n="208" type="recipe">
-               <pb n="68" facs="tcp:009867_0068_0F7B3350DC5B6A28"/>
+               <pb n="68" facs="unknown:009867_0068_0F7B3350DC5B6A28"/>
                <head>
                   <hi>208.</hi> Swelled Glands in the Neck.</head>
                <p n="655">655. Take half a Pint of <hi>Sea-water</hi> every other Day.</p>
@@ -2351,7 +2352,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="215" type="recipe">
-               <pb n="69" facs="tcp:009867_0069_0F7B335446BF7290"/>
+               <pb n="69" facs="unknown:009867_0069_0F7B335446BF7290"/>
                <head>
                   <hi>215.</hi> To prevent the Tooth-ach.</head>
                <p n="669">669. Waſh the Mouth with <hi>cold Water</hi> every Morning.</p>
@@ -2400,7 +2401,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="219" type="recipe">
-               <pb n="70" facs="tcp:009867_0070_0F7B3355663A1260"/>
+               <pb n="70" facs="unknown:009867_0070_0F7B3355663A1260"/>
                <head>
                   <hi>219.</hi> The Thruſh.<note n="*" place="bottom">Little, whitiſh Ulcers in the Mouth.</note>
                </head>
@@ -2445,7 +2446,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="225" type="recipe">
-               <pb n="71" facs="tcp:009867_0071_0F7B33564A69F078"/>
+               <pb n="71" facs="unknown:009867_0071_0F7B33564A69F078"/>
                <head>
                   <hi>225.</hi> Vigilia, Inability to Sleep.</head>
                <p n="706">706. Apply to the Forehead for two Hours, Cloths four Times doubled, and dipt in <hi>cold Water.</hi> I have known this applied to a lying-in Woman, and her Life ſaved thereby:</p>
@@ -2495,7 +2496,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="720">720. Or, Leaves of <hi>Water Dock</hi> bruiſed.</p>
             </div>
             <div n="232" type="recipe">
-               <pb n="72" facs="tcp:009867_0072_0F7B3356C89B2BB8"/>
+               <pb n="72" facs="unknown:009867_0072_0F7B3356C89B2BB8"/>
                <head>
                   <hi>232.</hi> A Bleeding Varicous Ulcer in the Leg.</head>
                <p n="721">721. Was cured only by conſtant <hi>cold Bathing.</hi>
@@ -2542,7 +2543,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </p>
             </div>
             <div n="238" type="recipe">
-               <pb n="73" facs="tcp:009867_0073_0F7B33578FB7F8B8"/>
+               <pb n="73" facs="unknown:009867_0073_0F7B33578FB7F8B8"/>
                <head>
                   <hi>238.</hi> Urine by Drops with Heat and Pain.</head>
                <p n="736">736. Drink nothing but <hi>Lemonade:</hi>
@@ -2600,7 +2601,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="751">751. Rub them daily with a <hi>Radiſh:</hi>
                </p>
                <p n="752">
-                  <pb n="74" facs="tcp:009867_0074_0F7B33584F7E7DE0"/>752. Or, with Juice of <hi>Dandelion:</hi>
+                  <pb n="74" facs="unknown:009867_0074_0F7B33584F7E7DE0"/>752. Or, with Juice of <hi>Dandelion:</hi>
                </p>
                <p n="753">753. Or, of <hi>Marigold-Flowers:</hi>
                </p>
@@ -2648,7 +2649,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <p n="767">767. Or, of Juice of <hi>Lemons:</hi>
                </p>
                <p n="768">
-                  <pb n="75" facs="tcp:009867_0075_0F7B33591B8034F8"/>768. Or, a Glaſs of <hi>Onion-water:</hi>
+                  <pb n="75" facs="unknown:009867_0075_0F7B33591B8034F8"/>768. Or, a Glaſs of <hi>Onion-water:</hi>
                </p>
                <p n="769">769 Or, boil an Ounce of <hi>Quick-ſilver</hi> in half a Pint of Spring Water. Uſe this for common Drink:</p>
                <p n="770">770. Or, take two Tea-ſpoonfuls of <hi>Worm-ſeed</hi> mixt with <hi>Treacle</hi> for ſix Mornings:</p>
@@ -2687,7 +2688,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
             </div>
          </div>
          <div type="list_of_illnesses">
-            <pb n="76" facs="tcp:009867_0076_0F7B335A2929BC28"/>
+            <pb n="76" facs="unknown:009867_0076_0F7B335A2929BC28"/>
             <list>
                <head>
                   <hi>COLD BATHING</hi> Cures Young Children of</head>
@@ -2724,7 +2725,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <item>Ague of every Sort,</item>
                   <item>Atrophy,</item>
                   <item>
-                     <pb n="77" facs="tcp:009867_0077_0F7B335A95FB1EF8"/>Blindneſs,*</item>
+                     <pb n="77" facs="unknown:009867_0077_0F7B335A95FB1EF8"/>Blindneſs,*</item>
                   <item>Cancer,</item>
                   <item>Chorea Sancti Viti,</item>
                   <item>Chin-cough,</item>
@@ -2765,7 +2766,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <item>Tetanus,</item>
                   <item>Tympany,</item>
                   <item>
-                     <pb n="78" facs="tcp:009867_0078_0F7B335D6496B6E8"/>Vertigo,</item>
+                     <pb n="78" facs="unknown:009867_0078_0F7B335D6496B6E8"/>Vertigo,</item>
                   <item>St. Vitus' Dance,</item>
                   <item>Vigilia,</item>
                   <item>Varicous Ulcers,</item>
@@ -2796,7 +2797,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <hi>Electrifying</hi> in a proper Manner, cures <list>
                   <item>St. Anthony's Fire,</item>
                   <item>
-                     <pb n="79" facs="tcp:009867_0079_0F7B335E86BBFFC0"/>Blindneſs,</item>
+                     <pb n="79" facs="unknown:009867_0079_0F7B335E86BBFFC0"/>Blindneſs,</item>
                   <item>Blood extravaſated,</item>
                   <item>Bronchacele,</item>
                   <item>Coldneſs in the Feet,</item>
@@ -2836,7 +2837,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
             <p>
                <hi>Faſting Spittle</hi> outwardly applied every Morning, has ſome<g ref="char:EOLhyphen"/>times relieved, and ſometimes cured
 <list>
-                  <pb n="80" facs="tcp:009867_0080_0F7B335F67A41240"/>
+                  <pb n="80" facs="unknown:009867_0080_0F7B335F67A41240"/>
                   <item>Blindneſs,</item>
                   <item>Co<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -2871,7 +2872,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
       </body>
       <back>
          <div type="table_of_contents">
-            <pb facs="tcp:009867_0081_0F7B335FCFADC370"/>
+            <pb facs="unknown:009867_0081_0F7B335FCFADC370"/>
             <head>THE CONTENTS.</head>
             <list>
                <item>1. <hi>ABORTION, (to prevent)</hi> Page 19</item>
@@ -2912,7 +2913,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>36. <hi>Colick in Children</hi> ibid.</item>
                <item>37. <hi>A Billious Colick</hi> ibid.</item>
                <item>
-                  <pb facs="tcp:009867_0082_0F7B33608A1F2FC0"/>38. <hi>An Habitual Colick</hi> 29</item>
+                  <pb facs="unknown:009867_0082_0F7B33608A1F2FC0"/>38. <hi>An Habitual Colick</hi> 29</item>
                <item>39. <hi>An Hyſterick Colick</hi> ibid.</item>
                <item>40. <hi>A Nervous Colick</hi> 30</item>
                <item>41. <hi>Colick from Fumes of Lead, or White-Lead, Verdigreaſe</hi> ibid.</item>
@@ -2958,7 +2959,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>76. <hi>Burning Eyes, or hot Rheum</hi> ibid.</item>
                <item>77. <hi>Clouds flying before the Eyes</hi> ibid.</item>
                <item>
-                  <pb facs="tcp:009867_0083_0F7B336148365350"/>78. <hi>Blindneſs</hi> 39</item>
+                  <pb facs="unknown:009867_0083_0F7B336148365350"/>78. <hi>Blindneſs</hi> 39</item>
                <item>79. <hi>Eyes dim or decay'd</hi> ibid.</item>
                <item>80. <hi>Dull Sight</hi> ibid.</item>
                <item>81. <hi>Films</hi> ibid.</item>
@@ -3025,7 +3026,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>micrania</hi> ibid.</item>
                <item>
-                  <pb facs="tcp:009867_0084_0F7B33620AC7B848"/>117. <hi>Stoppage in the Head</hi> 47</item>
+                  <pb facs="unknown:009867_0084_0F7B33620AC7B848"/>117. <hi>Stoppage in the Head</hi> 47</item>
                <item>118. <hi>The Heart-Burning</hi> ibid.</item>
                <item>119. <hi>The Hiceup</hi> ibid.</item>
                <item>120. <hi>Hoarſeneſs</hi> 48</item>
@@ -3074,7 +3075,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>154. <hi>The Piles (to cure)</hi> ibid.</item>
                <item>155. <hi>The inward Piles</hi> ibid</item>
                <item>
-                  <pb facs="tcp:009867_0085_0F7B3363038EC058"/>156. <hi>The Plague (to prevent)</hi> 57</item>
+                  <pb facs="unknown:009867_0085_0F7B3363038EC058"/>156. <hi>The Plague (to prevent)</hi> 57</item>
                <item>157. <hi>The Plague (to cure)</hi> 58</item>
                <item>158. <hi>The Pleuriſy</hi> ibid.</item>
                <item>159. <hi>To one Poiſon'd</hi> ibid.</item>
@@ -3116,7 +3117,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>193. <hi>A Stich in the Side</hi> ibid.</item>
                <item>194. <hi>Frequent or violent Stiches</hi> ibid.</item>
                <item>
-                  <pb facs="tcp:009867_0086_0F7B3363860755C0"/>195. <hi>Accidental Sickneſs, or Pain in the Stomach</hi> 65</item>
+                  <pb facs="unknown:009867_0086_0F7B3363860755C0"/>195. <hi>Accidental Sickneſs, or Pain in the Stomach</hi> 65</item>
                <item>196. <hi>Pain in the Stomach from bad Digeſtion</hi> ibid.</item>
                <item>197. <hi>Cholerick, Hot Pains in the Stomach</hi> ibid.</item>
                <item>198. <hi>Coldneſs in the Stomach</hi> 66</item>
@@ -3157,7 +3158,7 @@ the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <item>233. <hi>A Malignant Ulcer</hi> ibid.</item>
                <item>234. <hi>A Stubborn Ulcer</hi> ibid.</item>
                <item>
-                  <pb facs="tcp:009867_0087_0F7B33667A6FABC8"/>235. <hi>An eaſy and ſafe Vomit</hi> 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb facs="unknown:009867_0087_0F7B33667A6FABC8"/>235. <hi>An eaſy and ſafe Vomit</hi> 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                </item>
